@@ -34,9 +34,8 @@ This dataset is published under the [Creative Commons Attribution 4.0 Internatio
 You are completely free to download, analyze, modify, and build upon this pre-equilibrated computational data for your own research (including commercial purposes). **The only requirement is to properly cite our original publication.**
 
 ## Citation Request
-If you utilize these trajectories, DFT coordinates, or thermodynamic logs in your research, please cite:
+If you utilize these trajectories, DFT coordinates, or thermodynamic logs in your research, please cite the paper.
 
-> **[Your Name/Authors]** (2026). *[Paper Title]*. [Journal Name]. DOI: [Insert DOI when available]
 
 ## Contact
 For inquiries regarding the computational protocols, forcefield specificities, or data conversion assistance, please open an issue in this repository.
